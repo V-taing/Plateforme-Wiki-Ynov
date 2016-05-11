@@ -1,0 +1,28 @@
+label {
+    display: block;
+    color: #fafafa;
+    margin: 0 0 4px;
+    text-align: center;
+    font-size: 20px;
+    background: #ff315b;
+}
+input {
+    border: #2a2a2a;
+    padding: 10px;
+    font-size: 1.5em;
+    text-align: center;
+    width: 100%;
+    
+
+}
+label, input {
+    font-family: sans-serif;
+}
+form {
+    width: 65%;
+}
+
+* {
+    box-sizing: border-box;
+}
+
