@@ -1,0 +1,30 @@
+
+
+#catégorie { 
+    color: #2a2a2a;
+    font-family: 'Open Sans Condensed', sans-serif; 
+    font-size: 30px; 
+    font-weight: 700; 
+    text-align: center; 
+    text-transform: uppercase; 
+    line-height: 150px; 
+    margin: 0 0 0; 
+    padding: 20px 30px;
+
+
+}
+
+h1 {
+
+    background: #ff315b;
+    color: #fff; font-family: 'Open Sans Condensed', sans-serif; 
+    font-size: 40px; 
+    font-weight: 700; 
+    text-align: center; 
+    text-transform: uppercase;
+
+}
+
+#boutton {
+    text-align: center;
+}

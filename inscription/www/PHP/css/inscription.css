@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "BebasNeue";
+    src: url('BebasNeue.otf');
+} 
+
+p {
+        font-family: "BebasNeue", sans-serif;
+    display:table;
+    color:#ff315b; 
+    font-size:50px;
+    text-align: center;
+    text-shadow:2px 2px 0px rgba(0,0,0,0.8);
+}
+
+td {
+    font-family: "BebasNeue", sans-serif;
+    display:table;
+    color:#fff; 
+    font-size:30px;
+    text-shadow:2px 2px 6px rgba(0,0,0,0.6);
+}
+
